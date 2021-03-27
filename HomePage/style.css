@@ -78,6 +78,9 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,31,115,1) 0%, rgba(
     .nav-link a{
         padding-right: 50%;
     }
+    h5{
+        font-size: 0.6em;
+    }
 }
 @media (max-width:458px){
     #leo-logo{
